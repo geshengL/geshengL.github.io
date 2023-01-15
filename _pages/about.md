@@ -27,7 +27,7 @@ redirect_from:
 - 2023.01: Completed the paper entitled ‘**Design of body fluid pH detection circuit based on CMOS-ISFET**’.
 - 2022.12: Started the research of ‘**Design of Identity Detection System Based on FPGA**’.
 - 2022.11: Participated in the **chip process room** of the school, and was responsible for the **sealing and spin-coating of chip manufacturing**.
-- 2022.08: Participated in designing of **closed-loop temperature control system**, which involves **circuit design, component debugging, circuit welding, hardware fault testing and software debugging.
+- 2022.08: Participated in designing of **closed-loop temperature control system**, which involves **circuit design, component debugging, circuit welding, hardware fault testing and software debugging.**
 - 2022.08: Paper entitled ‘**Research on the spread and influencing factors of the COVID-19 variant in the UK**’ has been published in **IEEE**.
 
 # 📝 Publications 
