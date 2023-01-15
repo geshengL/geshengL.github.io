@@ -19,14 +19,14 @@ redirect_from:
 
 # 🧑‍🎓 About Me
 + I am a undergraduate student majoring in electronic science and technology at the Beijing University of Technology.
-+ My research interest includes *Analog Integrated Circuit design, Application Research Based on FPGA and machine learning.
++ My research interest includes *Analog Integrated Circuit design, Application Research Based on FPGA and machine learning*.
 + An article about machine learning I have published have been included by in **IEEE**. And a paper about **CMOS-ISFET-based pH detection circuit for body fluids** is being submitted. Now, my classmates and I are studying **Design of Identity Detection System Based on FPGA**, which is expected to be published in a few months.
 
 
 # 🔥 Recent News
 - 2023.01: Completed the paper entitled ‘**Design of body fluid pH detection circuit based on CMOS-ISFET**’.
 - 2022.12: Started the research of ‘**Design of Identity Detection System Based on FPGA**’.
-- 2022.11: Participated in the **chip process room** of the school, and was responsible for the **sealing and spin-coating of chip manufacturing.
+- 2022.11: Participated in the **chip process room** of the school, and was responsible for the **sealing and spin-coating of chip manufacturing**.
 - 2022.08: Participated in designing of **closed-loop temperature control system**, which involves **circuit design, component debugging, circuit welding, hardware fault testing and software debugging.
 - 2022.08: Paper entitled ‘**Research on the spread and influencing factors of the COVID-19 variant in the UK**’ has been published in **IEEE**.
 
