@@ -20,7 +20,7 @@ redirect_from:
 # 🧑‍🎓 About Me
 + I am a junior undergraduate student majoring in electronic science and technology at the Beijing University of Technology.
 + My research interest includes **Digital Integrated Circuit Design, Application Research Based on FPGA and machine learning**.
-+ A paper about machine learning I have published have been included by in **IEEE**. And a paper about **Design of identity recognition system based on multi-dimensional information fusion ** is being submitted.
++ A paper about machine learning I have published have been included by in **IEEE**. And a paper about **Design of identity recognition system based on multi-dimensional information fusion** is being submitted.
 
 
 # 🔥 Recent News
