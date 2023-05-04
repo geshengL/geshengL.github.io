@@ -45,6 +45,15 @@ redirect_from:
 - Compare the effects of temperature, dew point and humidity on virus transmission.
 - Predict the characteristics and duration of Omicron.
 
+  ‘**Design of body fluid pH detection circuit based on CMOS-ISFET**’
+-Folded cascode direct detection method. 
+-Differential comparator detection for op-amps.
+-Detection method of the pH-TVC time voltage conversion circuit  
+  
+  ‘**Design of identity recognition system based on multi-dimensional information fusion**’
+-Integrating four modules:Face recognition,Voiceprint recognition,Fingerprint recognition,RFID recognition
+-The success rate of facial recognition has reached 99.25%
+  
 </div></div>
 
 
