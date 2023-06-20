@@ -43,6 +43,7 @@ Research on the spread and influencing factors of the COVID-19 variant in the UK
 - Take some cities as examples to study the transmission rate and duration.
 - Compare the effects of temperature, dew point and humidity on virus transmission.
 - Predict the characteristics and duration of Omicron.
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 2nd ICFEICT</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
