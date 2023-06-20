@@ -48,6 +48,7 @@ Research on the spread and influencing factors of the COVID-19 variant in the UK
 <div class='paper-box-text' markdown="1">
   
 Design of body fluid pH detection circuit based on CMOS-ISFET (Status: Waiting for IEEE publication)
+
 - Folded cascode direct detection method. 
 - Differential comparator detection for op-amps.
 - Detection method of the pH-TVC time voltage conversion circuit.  
@@ -56,7 +57,8 @@ Design of body fluid pH detection circuit based on CMOS-ISFET (Status: Waiting f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 2nd ICFEICT</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Design of identity recognition system based on multi-dimensional information fusion (Status:Under review)
+Design of identity recognition system based on multi-dimensional information fusion (Status: Under review)
+
 - Integrating four modules:Face recognition,Voiceprint recognition,Fingerprint recognition,RFID recognition.
 - The success rate of facial recognition has reached 99.25%.
   
