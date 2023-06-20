@@ -35,11 +35,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 2nd ICFEICT</div><img src='images/fig1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on the spread and influencing factors of the COVID-19 variant in the UK]([https://ieeexplore.ieee.org/document/9755128](https://ieeexplore.ieee.org/document/9951595))
+Research on the spread and influencing factors of the COVID-19 variant in the UK
 
 **Ziwei Li**
 
-[**Project**](https://ieeexplore.ieee.org/document/9951595) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - Divide the transmission stages of different viruses(SARS-CoV-2,Alpha,Delta,Omicron), calculate the transmission rate and duration.
 - Take some cities as examples to study the transmission rate and duration.
 - Compare the effects of temperature, dew point and humidity on virus transmission.
