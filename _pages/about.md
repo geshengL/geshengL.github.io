@@ -51,6 +51,7 @@ Design of body fluid pH detection circuit based on CMOS-ISFET (Status: Waiting f
 - Folded cascode direct detection method. 
 - Differential comparator detection for op-amps.
 - Detection method of the pH-TVC time voltage conversion circuit.  
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 2nd ICFEICT</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
