@@ -18,13 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I am a junior undergraduate student majoring in electronic science and technology at the Beijing University of Technology.
-+ My research interest includes **Digital Integrated Circuit Design, Application Research Based on FPGA and machine learning**.
-+ A paper about machine learning I have published have been included by in **IEEE**. And a paper about **Design of identity recognition system based on multi-dimensional information fusion** is being submitted.
++ I am a senior student majoring in electronic science and technology at the Beijing University of Technology.
++ My research interest includes **Analog/RF IC,Digital system design,FPGAs,Machine learning**.
 
 
 # 🔥 Recent News
-- 2023.04: Completed the paper entitled ‘**Design of Identity Detection System Based on FPGA**’.(The first author)
+- 2023.05: Completed the paper entitled ‘**Design of identity recognition system based on multi-dimensional information fusion**’.(The first author)
 - 2023.01: Completed research on ‘**Design of body fluid pH detection circuit based on CMOS-ISFET**’.(The second author)
 - 2022.11: Participated in the **chip process room** of the school.
 - 2022.08: Participated in designing of **closed-loop temperature control system**, which involves **circuit design, component debugging, circuit welding, hardware fault testing and software debugging.**
