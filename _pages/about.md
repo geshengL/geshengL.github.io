@@ -18,56 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I am a senior student majoring in electronic science and technology at the Beijing University of Technology.
-+ My research interest includes **Analog/RF IC,Digital system design,FPGAs,Machine learning**.
++ 
++ 
 
 
 # 🔥 Recent News
-- 2023.05: Completed the paper entitled ‘**Design of identity recognition system based on multi-dimensional information fusion**’.(The first author)
-- 2023.01: Completed research on ‘**Design of body fluid pH detection circuit based on CMOS-ISFET**’.(The second author)
-- 2022.11: Participated in the **chip process room** of the school.
-- 2022.08: Participated in designing of **closed-loop temperature control system**, which involves **circuit design, component debugging, circuit welding, hardware fault testing and software debugging.**
-- 2022.08: Paper entitled ‘**Research on the spread and influencing factors of the COVID-19 variant in the UK**’(The first author) has been published in **IEEE**.
+- 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/fig1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Research on the spread and influencing factors of the COVID-19 variant in the UK
-
-
-- Divide the transmission stages of different viruses(SARS-CoV-2,Alpha,Delta,Omicron), calculate the transmission rate and duration.
-- Take some cities as examples to study the transmission rate and duration.
-- Compare the effects of temperature, dew point and humidity on virus transmission.
-- Predict the characteristics and duration of Omicron.
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Design of body fluid pH detection circuit based on CMOS-ISFET (Status: Waiting for IEEE publication)
-
-- Folded cascode direct detection method. 
-- Differential comparator detection for op-amps.
-- Detection method of the pH-TVC time voltage conversion circuit.  
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Design of identity recognition system based on multi-dimensional information fusion (Status: Under review)
-
-- Integrating four modules:Face recognition,Voiceprint recognition,Fingerprint recognition,RFID recognition.
-- The success rate of facial recognition has reached 99.25%.
-  
-</div></div>
 
 
 # 📖 Educations
-- 2020.09 - 2024.06: **Beijing University of Technology**, B.Eng. in Electronic Science and Technology.
+- 
 
  
 # 💻 Internships
-- 2022.11 - 2023.1: Work as charging locker designer in Co.SolutionKeys.
+- 
 
